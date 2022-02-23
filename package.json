@@ -1,0 +1,23 @@
+{
+  "name": "test-by-jest-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omar25ahmed/Test-By-Jest-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omar25ahmed/Test-By-Jest-Practice/issues"
+  },
+  "homepage": "https://github.com/omar25ahmed/Test-By-Jest-Practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
